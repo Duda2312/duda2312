@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 💜💜
+## Bem vindos ao meu perfil 💜💜
 
 Meu nome é Maria Eduarda
 
@@ -10,4 +10,5 @@ Meu nome é Maria Eduarda
 
 0000110660343sp@al.educacao.sp.gov.br
 
-![](link)
+
+
